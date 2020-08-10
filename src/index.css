@@ -1,0 +1,140 @@
+body{
+  background-image:url("assets/background.jpg") none;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #e2ece5 !important ;
+  
+
+
+}
+
+
+#add__new__list{
+    top: -38px;
+    right: 0px;
+    margin-bottom: 13px;
+}
+
+.table-light{
+  text-align: center;
+  margin: auto;
+  width: 50% !important; 
+}
+
+
+
+.profile{
+  padding: 3%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  border-radius: 0.5rem;
+  background: #fff;
+}
+.profile-img{
+  text-align: center;
+}
+.profile-img img{
+  width: 70%;
+  height: 150px;
+}
+
+
+.profile-head h5{
+  color: #333;
+}
+.profile-head h6{
+  color: #0062cc;
+}
+.profile-edit-btn{
+  border: none;
+  border-radius: 1.5rem;
+  width: 70%;
+  padding: 2%;
+  font-weight: 600;
+  color: #6c757d;
+  cursor: pointer;
+}
+
+
+.profile-head .nav-tabs{
+  margin-bottom:5%;
+}
+.profile-head .nav-tabs .nav-link{
+  font-weight:600;
+  border: none;
+}
+.profile-head .nav-tabs .nav-link.active{
+  border: none;
+  border-bottom:2px solid #0062cc;
+}
+.profile-work{
+  padding: 14%;
+  margin-top: -15%;
+}
+.profile-work p{
+  font-size: 20px;
+  color: #818182;
+  font-weight: 600;
+  margin-top: 10%;
+}
+.profile-work a{
+  text-decoration: none;
+  color: #495057;
+  font-weight: 600;
+  font-size: 14px;
+}
+.profile-work ul{
+  list-style: none;
+}
+.profile-tab label{
+  font-weight: 600;
+}
+.profile-tab p{
+  font-weight: 600;
+  color: #0062cc;
+}
+
+.table-striped {
+  background-color: #8cafc3!important;
+}
+.table-striped .pr-5, .px-5 {
+  padding-right: 2rem!important;
+}
+
+.table-responsive .btn-success {
+  color: #fff;
+  background-color: #90b5bc;
+  border-color: #90b5bc;
+}
+.table-responsive .btn-success:hover {
+  color: #fff;
+  background-color: #90b5bc;
+  border-color: #90b5bc;
+}
+
+
+
+.table-light .pr-5 .btn-info {
+  color: #fff;
+  background-color: #283065;
+  border-color: #283065;
+
+}
+.form-inline .btn{
+  background-color: #283065;
+  border-color: #283065;
+  color: #fff;
+
+}
+
+.table-light {
+  font-size: 13px;
+}
+
+.form-group .btn {
+  background-color: #283065;
+}
+/* #283065 */
+
